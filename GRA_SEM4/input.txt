@@ -1,0 +1,32 @@
+MThd | Format=0 | # of Tracks=1 | Division=384
+
+Track #0 ******************************************
+    Time       Event
+   1: 1:  0 |Time Sig	 |  4/4      | MIDI-clocks\click=24 | 32nds\quarter=8
+	    |Tempo	 | BPM=55    | micros\quarter=1090909
+	 96 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=c 2	 | vol=0
+      2:  0 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	 96 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+      3: 96 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+      4: 96 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=g 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=g 2	 | vol=0
+   2: 1: 96 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=c 2	 | vol=0
+      2:  0 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	 96 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+      3: 96 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	192 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	288 |Off Note	 | chan= 1   | pitch=e 2	 | vol=0
+      4:  0 |Off Note	 | chan= 1   | pitch=d 2	 | vol=0
+	 96 |Off Note	 | chan= 1   | pitch=c 2	 | vol=0
+	    |End of track| 
